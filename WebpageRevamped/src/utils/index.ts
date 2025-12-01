@@ -1,5 +1,5 @@
 export const ALLOWED_DOMAINS = [
-    'ds-horizon.github.io',
+    'dream-horizon-org.github.io',
     // Add any other allowed domains here
   ];
   
