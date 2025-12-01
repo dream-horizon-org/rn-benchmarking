@@ -20,10 +20,10 @@
         "ios",
         "android"
     ],
-    "repository": "https://github.com/dream11/rn-benchmarking",
-    "author": "Dream Sports Labs <dreamsportslabs@dream11.com> (https://github.com/ds-horizon)",
+    "repository": "https://github.com/dream-horizon-org/rn-benchmarking",
+    "author": "DreamHorizon<info@dreamhorizon.org> (https://github.com/dream-horizon-org)",
     "license": "MIT",
-    "homepage": "https://github.com/dream11/rn-benchmarking#readme",
+    "homepage": "https://github.com/dream-horizon-org/rn-benchmarking#readme",
     "peerDependencies": {
         "react": "^18.2.0",
         "react-native": "^0.74.5"

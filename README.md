@@ -31,7 +31,7 @@ Supports both Old and New Architecture, with manual and automated testing.
 ## Setup
 
 ```
-git clone https://github.com/ds-horizon/rn-benchmarking.git
+git clone https://github.com/dream-horizon-org/rn-benchmarking.git
 cd Benchamrking
 yarn install
 ```

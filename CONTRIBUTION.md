@@ -20,7 +20,7 @@ The RN Benchmarking Repository is a project aimed at benchmarking the performanc
 
 ### Reporting Bugs
 
-If you encounter any bugs or issues while using the benchmarking tools or analyzing the results, please [open a new issue](https://github.com/dream11/rn-benchmarking/issues) in this repository. When reporting a bug, please provide as much information as possible, including:
+If you encounter any bugs or issues while using the benchmarking tools or analyzing the results, please [open a new issue](https://github.com/dream-horizon-org/rn-benchmarking/issues) in this repository. When reporting a bug, please provide as much information as possible, including:
 
 - A detailed description of the issue
 - Steps to reproduce the issue
@@ -36,7 +36,7 @@ If you'd like to contribute code to the project by fixing existing issues or add
 
 **Validate Changes Locally:** Clone your forked repository and make the necessary changes. Validate your changes locally to ensure they work as intended.
 
-**Create a Pull Request:** Once you've validated your changes, create a pull request from your forked repository to the original repository. Submitted pull request can be found [here](https://github.com/dream11/rn-benchmarking/pulls).
+**Create a Pull Request:** Once you've validated your changes, create a pull request from your forked repository to the original repository. Submitted pull request can be found [here](https://github.com/dream-horizon-org/rn-benchmarking/pulls).
 
 When raising the pull request, please provide the following information if possible:
 - A detailed description of the fix/feature.
